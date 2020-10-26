@@ -102,3 +102,35 @@ nav img{
   text-decoration: none;
   font-size: 18px;
 }
+/* /models */
+
+/* steps */
+.oldman{
+  background-image: url("../img/oldman.jpg");
+  height: 380px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mobile{
+  height: 500px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  transform: translateY(-50%);
+  margin-left: 50px;
+}
+.question p{
+  padding: 70px;
+  font-size: 28px;
+  text-align: left;
+}
+.step h4{
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 70px;
+}
+.step p{
+  font-size: 14px;
+}
+/* /steps */
+
+/* info */
