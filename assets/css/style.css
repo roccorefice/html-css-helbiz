@@ -1,0 +1,14 @@
+body{
+  font-family: 'Open Sans', sans-serif;}
+
+/* utility classes */
+.mr_20{
+  margin-right: 20px;
+}
+.pr_1{
+  padding-right: 1rem;
+}
+.pl_1{
+  padding-left: 1rem;
+}
+/* /utility classes */
